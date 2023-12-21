@@ -1,0 +1,31 @@
+*{
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+	font-family: 'Agdasima', sans-serif;
+	/* font-family: 'Mulish', sans-serif; */
+	font-family: 'Poppins', sans-serif;
+	/* font-family: 'Readex Pro', sans-serif; */
+	/* font-family: 'REM', sans-serif; */
+	/* font-family: 'Roboto', sans-serif; */
+	/* font-family: 'Roboto Condensed', sans-serif; */
+	/* font-family: 'Young Serif', serif; */
+}
+
+.mobile-sec{
+	padding:40px 0px;
+}
+
+.mobile-con{
+	width:85%;
+	margin:auto;
+}
+
+.mobile-col1{
+	width:50%;
+	margin:auto;
+}
+
+.mobile-col1 img{
+	width:100%;
+}
